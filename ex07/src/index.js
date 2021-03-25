@@ -8,6 +8,5 @@ const range = {
 //Only change code below this line
 const middle = ({ max, min }) => (max + min) / 2.0;
 //Only change code above this line
-
 console.log(middle(range));
 module.exports = middle;
