@@ -13,6 +13,5 @@ function main(baking){
   //Only change code above this line
 }
 
-
 console.log(main(BAKING_TEMPERATURES));
 module.exports = main;
