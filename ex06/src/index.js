@@ -9,5 +9,6 @@ function removeFirstTwo(list) {
   return array2;
 }
 
+
 console.log(removeFirstTwo(array1));
 module.exports = removeFirstTwo;
