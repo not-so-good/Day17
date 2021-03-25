@@ -62,6 +62,7 @@ function findUser(lastName, gender) {
 //findUser(lastName, gender) function ends here
 
 // Only change code above this line
+
 getUsers();
 findUser("Doe", "male"); //Change this line
 
