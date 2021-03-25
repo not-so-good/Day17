@@ -12,6 +12,5 @@ function main(myCar) {
   return { carCylinders, carSize };
   //Only change code above this line
 }
-
 console.log(main(MY_CAR));
 module.exports = main;
