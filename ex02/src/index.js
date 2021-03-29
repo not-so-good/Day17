@@ -6,7 +6,7 @@ const MY_CAR = {
 
 function main(myCar){
     //Only change code below this line
-    const {cylinders, size} = MY_CAR;
+    const {cylinders, size} = myCar;
     //const cylinders = MY_CAR.cylinders;
     //const size = MY_CAR.size;
     return {cylinders, size};
@@ -14,3 +14,4 @@ function main(myCar){
 }
 console.log(main(MY_CAR));
 module.exports = main;
+
